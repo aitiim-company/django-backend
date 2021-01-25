@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7618840-c8f0-4d51-bf4a-e6955b8d8bf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxkQtGk9QoBx0u5jhCyMNmDmFJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wagtail" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\python\django\pages\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\python\django\core\templates" />
+      <recent name="E:\projects\python\django\pages\templates" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7618840-c8f0-4d51-bf4a-e6955b8d8bf1" name="Default Changelist" comment="" />
+      <created>1610442616696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610442616696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="524" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610445506849">
+      <screen x="93" y="0" width="2467" height="1440" />
+    </state>
+    <state x="477" y="524" key="#com.intellij.fileTypes.FileTypeChooser/93.0.2467.1440@93.0.2467.1440" timestamp="1610445506849" />
+    <state x="498" y="476" key="FileChooserDialogImpl" timestamp="1611063169915">
+      <screen x="93" y="0" width="2467" height="1440" />
+    </state>
+    <state x="498" y="476" key="FileChooserDialogImpl/93.0.2467.1440@93.0.2467.1440" timestamp="1611063169915" />
+    <state x="219" y="364" key="SettingsEditor" timestamp="1610450429740">
+      <screen x="93" y="0" width="2467" height="1440" />
+    </state>
+    <state x="219" y="364" key="SettingsEditor/93.0.2467.1440@93.0.2467.1440" timestamp="1610450429740" />
+    <state x="380" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1610446423753">
+      <screen x="93" y="0" width="2467" height="1440" />
+    </state>
+    <state x="380" y="329" width="672" height="678" key="search.everywhere.popup/93.0.2467.1440@93.0.2467.1440" timestamp="1610446423753" />
+  </component>
+</project>
